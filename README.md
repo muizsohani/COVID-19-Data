@@ -1,3 +1,5 @@
+The most recent version of the project is in the develop branch. Our co-op term ended before we could see the project be hostedon Ontario.ca.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
